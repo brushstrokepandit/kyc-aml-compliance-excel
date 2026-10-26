@@ -28,7 +28,7 @@ A formula-driven Excel workbook that simulates the daily work of a **Client Data
 4. **Alert_Monitoring** applies rules R1 to R6 and returns **ESCALATE**, **Analyst Review** or **No Action**.
 5. Escalated items are documented in **Escalation_Log** with a risk summary, level, SLA and outcome.
 
-## Planted scenarios (what a reviewer should find)
+## Planted scenarios 
 
 - **CTR aggregation:** two same-day deposits ($6,200 + $5,100) for one client combine to exceed $10,000; one CTR from a jeweller is past its filing deadline.
 - **Structuring:** four cash deposits of $9,200 to $9,800 within five days, each below the threshold.
